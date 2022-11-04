@@ -1,0 +1,388 @@
+npm WARN config global `--global`, `--local` are deprecated. Use `--location=global` instead.
+[0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+
+1.1.19
+
+TypeScript version used by Compodoc : 4.5.5
+
+TypeScript version of current project : 4.6.2
+
+Node.js version : v16.15.1
+
+Operating system : Windows 10
+
+[11:22:00] No configuration file found, switching to CLI flags.
+[11:22:00] Using tsconfig file : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\tsconfig.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.editorconfig
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.browserslistrc
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.gitignore
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\angular.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\build-storybook.log
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\documentation.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\jest.config.js
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\LICENSE
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\package-lock.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\package.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\README.md
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\tsconfig.app.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\tsconfig.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\tsconfig.spec.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.storybook\preview.js
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.storybook\tsconfig.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.storybook\main.js
+[11:22:00] Ignoring       : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.storybook\typings.d.ts
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\jest-config\setup.ts
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\src\favicon.ico
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\src\main.ts
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\src\index.html
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\src\polyfills.ts
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\src\styles.css
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\src\app\app.component.css
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\src\app\app.component.html
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\src\app\app.module.ts
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\src\app\app.component.ts
+[11:22:00] Ignoring       : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\src\app\app.component.spec.ts
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\jest-config\__mocks__\fileMock.js
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\jest-config\__mocks__\globalMocks.ts
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\src\assets\.gitkeep
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\jest-config\__mocks__\styleMock.js
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\src\stories\button.component.ts
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\src\stories\button.css
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\src\stories\Button.stories.ts
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\src\stories\header.component.ts
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\src\stories\Introduction.stories.mdx
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\src\stories\page.component.ts
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\src\stories\header.css
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\src\stories\Header.stories.ts
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\src\stories\Page.stories.ts
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\src\stories\page.css
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\src\stories\User.ts
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\src\environments\environment.ts
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\src\environments\environment.prod.ts
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\src\app\components\pure-task-list.component.ts
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\src\app\components\pure-inbox-screen.component.ts
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\src\app\components\pure-inbox-screen.stories.ts
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\src\app\components\inbox-screen.component.ts
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\src\app\components\pure-task-list.stories.ts
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\src\app\components\task-list.component.ts
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\src\app\components\task.component.ts
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\src\app\components\task.stories.ts
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\src\app\state\task.state.ts
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\src\assets\font\OpenSans-Light-webfont.eot
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\src\app\components\task.module.ts
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\src\assets\font\OpenSans-Light-webfont.svg
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\src\app\models\task.model.ts
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\src\assets\font\OpenSans-Light-webfont.ttf
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\src\assets\font\OpenSans-Light-webfont.woff
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\src\assets\font\OpenSans-Regular-webfont.svg
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\src\assets\font\OpenSans-Regular-webfont.eot
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\src\assets\font\OpenSans-Regular-webfont.ttf
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\src\assets\font\OpenSans-Regular-webfont.woff
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\src\stories\assets\code-brackets.svg
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\src\stories\assets\colors.svg
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\src\stories\assets\comments.svg
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\src\stories\assets\direction.svg
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\src\stories\assets\plugin.svg
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\src\stories\assets\flow.svg
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\src\stories\assets\stackalt.svg
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\src\stories\assets\repo.svg
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\src\assets\icon\percolate.eot
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\src\assets\icon\percolate.svg
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\src\assets\icon\percolate.ttf
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\src\assets\icon\percolate.woff
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\04c8356108ff08642f48f1e89f036375.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\0309f5f9b2046465f8fd964cf4388bc4.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\04ed669534711a7cf5319544497bb397.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\07171381db309016a45c4bd85609b2cc.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\08418d95e42d620f66a80a8117c194df.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\0bede074dcccacfda21c95774c345df8.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\0e04176f13a638465e2283d4741374f8.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\0d50fadbf4cb68b0f9ce4c3e86952c57.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\11ded4ccda1d876a9ed965d58f2b0b8b.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\1887756919d59ab5fe4c34d57071e23a.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\13a4d8dbdf24b038e2539b8f7db13f9a.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\188fe4ad41bd4c60eb35d10a9149808d.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\199bcf6357c4ae3eaff5de29436d6f51.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\19ea755321614f39cd3030b01feca99a.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\1caadc2adbda621d81355c56522682ad.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\1ce23eab1dbbbcaf9214b365a5b736a4.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\2030f7e4f571e612baf32b4e06d34288.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\226333fba2737bd060ccf06ea019ec38.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\23b20ca51a0320d336ae8e0db4055f34.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\01aa92f955a862686971cb48575fedd9.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\11d60edc7fa3cc6dfb243a451ff763c5.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\2455c746f5976de5c78afa54fdfc4960.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\2b95ecea381280ccae4756baaa220ff0.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\23ddb2f8bf64ba001a2672ec5636b924.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\2a224f20926438b95b89f12996b72a51.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\273e882a4616badd1fe0375fa4363b28.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\3516170061f0ebd9a88e0f8c3d248abc.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\3ab8222a8f00704560a208049cd4d60c.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\36c73ba998d3519c3cb98966a77a8d2f.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\3b441192c5094b5490a37c878c254a20.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\3dff74b40087c6fd2cad0e9806f79181.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\36e2ea243defb218e6fa9ef2690cd96c.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\3f4da043d718fe7de74ca5dcc8cd7823.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\441850508520acd6a1136628c9d658a1.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\48a95412a03931ab963f82e15b5514b9.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\50fd415423efc0cc64a88305930d7ecf.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\51cec0ab002e08d53bf3082ed4cc208a.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\53fe637a087768b83074a8b278671b3a.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\4d65896d6d41655d38f94d87f84a9b2a.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\517df4d7c4cc54370b50c720a1650819.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\4a343ca7d69554b98671f308449e4d36.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\550011af460a66542fc85a00faa4116c.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\570ad00dfed8f6d73602f975e63ca34e.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\581a5f0ece8a4187c8fa10bc23f05790.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\57225d549b145f915b6cd39b6d9cf91b.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\58bf0c515ad4bbc2185f5b77fcd8dd84.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\595cd9d81a990d3e5a18524d1e817399.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\5705a2f20b79469ff6293ac9c2257c6b.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\5a3ae47e455ed772bc5dc67336123222.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\5aeecfae264d6f184a655973a207b1f9.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\5a5e9497c8fad10e136dc127e7b48a14.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\5b5a2a1c368a93cc934b98580b4d0da7.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\5c52faa5b38abc6b1972095d3fd1be86.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\5d8726ddb90e559c612f77fe07dea678.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\5d9c105ab0dff113c59399b7bfef26f3.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\5fbc25852c2eacdb07078dbe33334faa.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\5bd87d6ec50e2530fae0ae5567630d7c.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\5bede01f297fb50c72f231e21f8baba0.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\661e068c46da89ad033bb7ef55a643bc.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\682643960045d41a9859cd9e46431d52.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\67a853540165942c86ec6f063077ef24.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\670d22a16bd7d3df6eefc3b8537f7cda.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\683d3708f4b756bb990991affd2009da.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\6d322da16dd8797939152a27d49aaf5d.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\6d679e55ac748e6bbb77318fe3de4ee3.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\6d84e80ce9d0bc84be0bbf37020612c1.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\6cab4835ae81d1f03dc7b23c2de83187.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\6d9bf49cce4f301c5e477e7a856a6ce3.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\6e4c79f3175262d0f3d402c185a135de.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\6ec07821a8203bdfedd2d11896f1f409.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\7128b165e3b67f7573b855fb8eee9dd0.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\719a7d80e910193f4addad003f2c6fcf.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\73eaf65aa68a733beb04668c1b0ca55c.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\77ccb7f0d3075d11b7da00232d3bd6c0.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\719133eb5068f06639daa3c7db57ae8c.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\79cb448363bf2d4b12cb55a3b1c8d4ac.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\7295a906e9af03162ebd43f77665a647.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\7a101a4965fdf5f6c510373e79f06d1b.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\7c1f8cd72700fcd4575185806d9967d4.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\7a93ee4c5772ce8770109c00b9a5a6c7.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\7c426b7f39246f643e4206ac966e79ef.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\7c2d4b5ca746ec97983a1b4fc094c158.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\7d0cfcc480c1c3f4d6470ccb77ef335e.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\7f9e40af2a30a521dba97516c79c698b.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\808f55f83233807151bfd0e95c6bb60f.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\81035e5bc69f5049147ba48e0c770870.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\83238002837c489feb0ab548e7f63e22.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\8992bfbbfcf258b2507ea3bb1a493758.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\8ae0188a86a7e66c671a89e606b06a84.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\81732fb97b932c8a9076796ffc295a34.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\909555a60d573bbca34be39c3f6b34b1.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\8cddc3df7f9efffd89fdf585bf240cc1.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\92b43197aebd7ce8aa77065daedbc5fc.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\84e8c3fc99384323ec5efa71c1798dce.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\96a03a59e78c45378f57a13193918178.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\977d722128016dba13f8d91b62fb1ba9.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\996569f8ceab06ef0532513e82a06399.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\96bdb91477821eb06d5ee42f3b1f496c.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\9c4dbc86ba42360d69f1ad0918912090.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\a29a3c2b0656dd3ebc1d4397289b5d47.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\a839c52c52c82485786ab0917790f927.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\acd836c83893a2c18edc77b305acbe12.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\ad75cea367fa5abf964d68d3023424ce.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\aff555890c8142f04b70df0a037e4679.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\b7d4a96ae702905330862dc4e2e5701e.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\b5a0c9f8583b76d3784d0a29af96ffb0.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\b8957c6ece69f5f3af6878f1d96b9038.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\be17d06ed921b492eadd90fb6b3310de.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\c014a2d2dc198ba2562a4769ad35785e.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\c0b1e6c58abd4d222e0e00c482a7d591.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\ad9f7862a4372abeab54a301a31dde01.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\c1aebbcf439537b9fc38b1a539810691.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\c1d1c8b6e4112d6d2fdd71a7bb3d291e.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\c37ab7cdb8817841395c1fa57b00b373.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\c586b1f97c9c1fb53f682913466d96c5.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\cabe5aff8118a819a034a6497de2bf8c.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\cd4eb0cb3b27c4684ec7cdb276507d2d.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\d1c2dedf2873b6359a2cac5adbe5e7aa.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\d40ab374caf51b9811b8c9bf3cd0221e.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\d4ca9027a21720de1fdb3c0baec80aaa.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\d6f37f999b39382c931640c6846a76bb.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\d814827f6435f98032fcb4a2c7e4f32b.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\cd23c80c02e48784fb2a502ef4509ad9.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\da0e7a009f37318963f7a0d09678b509.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\dc3aece0d6e1e38fb7dac33df53911ae.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\d922260c5bef822c2e92a73c79cecc78.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\da57cf9b4a3e1ce5ff12849d3d82aebe.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\dcc0d6b15bcdc2c78eab668e50adc00a.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\dd9c0499833bea0fada52a8814ccb15b.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\deeeccc684fa2af892e96ed9208430b7.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\ddb39ab80f672ac4d6a4067b3ac8e076.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\e0dca65b4f6c9653b88849e8a8b6c252.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\e2b2c7bb9cb224c597f400b9fae6cca1.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\dfcce7f8aa2975a9eff9718618dc9bc8.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\eaf07e90bd3b6efed33e49fc58f0329d.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\e4254657b08fa4bb0db76f61702ddb70.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\e34c9b1f4e05fa3e9f4e11143c845bb5.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\ebedb3afba7719668282905f12132d86.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\ecc24a3a4fc6fe944baf8ceaa3921fd8.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\ec1ddc12698979fa4694a74379ca4a64.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\eec25f291638fa7d6d5b0f1a5fc85be0.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\ed8fc67828635ad42833bebb2d55e47d.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\f00f186fe6da26486c06c5be78303fc8.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\ef33bb28aa9ca7c1c0bfb5a8c19cdf73.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\f08977c28e569f751d564008faf49373.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\f037d3edff75d2f19d3fe5f59201f265.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\f1fda212cc7d4297d96c644e15637e74.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\f4b5703d53aabd71d064dd8dd71cfa51.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\f733cf5f152cfb4f56feeee3b474b543.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\f7b06012d16f09a70b383ba2c4c0ebe7.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\f7fab48d87c97de46ae00fab6bc8f7c7.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\f8ef6fdef767e1ff1d67c34075acc2e8.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\f5f2363c170f5d36aa8fc0406c3eb6ab.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\f4e7189135b5c97aae75ea94cee2e217.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\fa604f6377fc8426d74d35f851a79481.json
+[11:22:00] Including      : C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\.angular\cache\13.3.7\babel-webpack\fceaed72277ed987cc93e8cc16c0d9e1.json
+[11:22:00] Searching package.json file
+[11:22:00] package.json file found
+[11:22:00] Processing package.json dependencies
+[11:22:00] Searching README.md, CHANGELOG.md, CONTRIBUTING.md, LICENSE.md, TODO.md files
+[11:22:00] README.md file found
+[11:22:00] Error during C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\CHANGELOG read
+[11:22:00] Continuing without CHANGELOG.md file
+[11:22:00] Error during C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\CONTRIBUTING read
+[11:22:00] Continuing without CONTRIBUTING.md file
+[11:22:00] LICENSE.md file found
+[11:22:00] Error during C:\Users\Schorsch\Private_projekte\StoryBook_Tutorial\taskbox\TODO read
+[11:22:00] Continuing without TODO.md file
+[11:22:00] Get dependencies data
+[11:22:00] parsing        : C:/Users/Schorsch/Private_projekte/StoryBook_Tutorial/taskbox/jest-config/setup.ts
+[11:22:00] parsing        : C:/Users/Schorsch/Private_projekte/StoryBook_Tutorial/taskbox/src/main.ts
+[11:22:00] parsing        : C:/Users/Schorsch/Private_projekte/StoryBook_Tutorial/taskbox/src/polyfills.ts
+[11:22:00] parsing        : C:/Users/Schorsch/Private_projekte/StoryBook_Tutorial/taskbox/src/app/app.module.ts
+[11:22:00] found          : AppModule
+[11:22:00]                : - imports:
+[11:22:00]                : 	- BrowserModule
+[11:22:00]                : 	- TaskModule
+[11:22:00]                : 	- NgxsModule
+[11:22:00]                : 	- NgxsReduxDevtoolsPluginModule
+[11:22:00]                : 	- NgxsLoggerPluginModule
+[11:22:00]                : - declarations:
+[11:22:00]                : 	- AppComponent
+[11:22:00]                : 	- InboxScreenComponent
+[11:22:00]                : 	- PureInboxScreenComponent
+[11:22:00]                : - bootstrap:
+[11:22:00]                : 	- AppComponent
+[11:22:00] parsing        : C:/Users/Schorsch/Private_projekte/StoryBook_Tutorial/taskbox/src/app/app.component.ts
+[11:22:00] found          : AppComponent
+[11:22:00] parsing        : C:/Users/Schorsch/Private_projekte/StoryBook_Tutorial/taskbox/jest-config/__mocks__/globalMocks.ts
+[11:22:00] parsing        : C:/Users/Schorsch/Private_projekte/StoryBook_Tutorial/taskbox/src/stories/button.component.ts
+[11:22:00] found          : ButtonComponent
+[11:22:00] parsing        : C:/Users/Schorsch/Private_projekte/StoryBook_Tutorial/taskbox/src/stories/Button.stories.ts
+[11:22:00] found          : Template
+[11:22:00] found          : Primary
+[11:22:00] found          : Secondary
+[11:22:00] found          : Large
+[11:22:00] found          : Small
+[11:22:00] parsing        : C:/Users/Schorsch/Private_projekte/StoryBook_Tutorial/taskbox/src/stories/header.component.ts
+[11:22:00] found          : HeaderComponent
+[11:22:00] parsing        : C:/Users/Schorsch/Private_projekte/StoryBook_Tutorial/taskbox/src/stories/page.component.ts
+[11:22:00] found          : PageComponent
+[11:22:00] parsing        : C:/Users/Schorsch/Private_projekte/StoryBook_Tutorial/taskbox/src/stories/Header.stories.ts
+[11:22:00] found          : Template
+[11:22:00] found          : LoggedIn
+[11:22:00] found          : LoggedOut
+[11:22:00] parsing        : C:/Users/Schorsch/Private_projekte/StoryBook_Tutorial/taskbox/src/stories/Page.stories.ts
+[11:22:00] found          : Template
+[11:22:00] found          : LoggedOut
+[11:22:00] found          : LoggedIn
+[11:22:00] parsing        : C:/Users/Schorsch/Private_projekte/StoryBook_Tutorial/taskbox/src/stories/User.ts
+[11:22:00] found          : User
+[11:22:00] parsing        : C:/Users/Schorsch/Private_projekte/StoryBook_Tutorial/taskbox/src/environments/environment.ts
+[11:22:00] found          : environment
+[11:22:00] parsing        : C:/Users/Schorsch/Private_projekte/StoryBook_Tutorial/taskbox/src/environments/environment.prod.ts
+[11:22:00] found          : environment
+[11:22:00] parsing        : C:/Users/Schorsch/Private_projekte/StoryBook_Tutorial/taskbox/src/app/components/pure-task-list.component.ts
+[11:22:00] found          : PureTaskListComponent
+[11:22:00] parsing        : C:/Users/Schorsch/Private_projekte/StoryBook_Tutorial/taskbox/src/app/components/pure-inbox-screen.component.ts
+[11:22:00] found          : PureInboxScreenComponent
+[11:22:00] parsing        : C:/Users/Schorsch/Private_projekte/StoryBook_Tutorial/taskbox/src/app/components/pure-inbox-screen.stories.ts
+[11:22:00] found          : Template
+[11:22:00] found          : Default
+[11:22:00] found          : Error
+[11:22:00] found          : WithInteractions
+[11:22:00] parsing        : C:/Users/Schorsch/Private_projekte/StoryBook_Tutorial/taskbox/src/app/components/inbox-screen.component.ts
+[11:22:00] found          : InboxScreenComponent
+[11:22:00] parsing        : C:/Users/Schorsch/Private_projekte/StoryBook_Tutorial/taskbox/src/app/components/pure-task-list.stories.ts
+[11:22:00] found          : Template
+[11:22:00] found          : Default
+[11:22:00] found          : WithPinnedTasks
+[11:22:00] found          : Loading
+[11:22:00] found          : Empty
+[11:22:00] parsing        : C:/Users/Schorsch/Private_projekte/StoryBook_Tutorial/taskbox/src/app/components/task-list.component.ts
+[11:22:00] found          : TaskListComponent
+[11:22:00] parsing        : C:/Users/Schorsch/Private_projekte/StoryBook_Tutorial/taskbox/src/app/components/task.component.ts
+[11:22:00] found          : TaskComponent
+[11:22:00] parsing        : C:/Users/Schorsch/Private_projekte/StoryBook_Tutorial/taskbox/src/app/components/task.stories.ts
+[11:22:00] found          : actionsData
+[11:22:00] found          : Template
+[11:22:00] found          : Default
+[11:22:00] found          : Pinned
+[11:22:00] found          : Archived
+[11:22:00] parsing        : C:/Users/Schorsch/Private_projekte/StoryBook_Tutorial/taskbox/src/app/state/task.state.ts
+[11:22:00] found          : actions
+[11:22:00] found          : ArchiveTask
+[11:22:00] found          : PinTask
+[11:22:00] found          : AppError
+[11:22:00] found          : defaultTasks
+[11:22:00] found          : TaskStateModel
+[11:22:00] found          : TasksState
+[11:22:00] parsing        : C:/Users/Schorsch/Private_projekte/StoryBook_Tutorial/taskbox/src/app/components/task.module.ts
+[11:22:00] found          : TaskModule
+[11:22:00]                : - imports:
+[11:22:00]                : 	- CommonModule
+[11:22:00]                : 	- NgxsModule
+[11:22:00]                : - exports:
+[11:22:00]                : 	- TaskComponent
+[11:22:00]                : 	- TaskListComponent
+[11:22:00]                : - declarations:
+[11:22:00]                : 	- TaskComponent
+[11:22:00]                : 	- TaskListComponent
+[11:22:00]                : 	- PureTaskListComponent
+[11:22:00] parsing        : C:/Users/Schorsch/Private_projekte/StoryBook_Tutorial/taskbox/src/app/models/task.model.ts
+[11:22:01] found          : Task
+[11:22:01] -------------------
+[11:22:01] Project statistics 
+[11:22:01] - files      : 231
+[11:22:01] - module     : 2
+[11:22:01] - component  : 9
+[11:22:01] - injectable : 1
+[11:22:01] - class      : 3
+[11:22:01] - interface  : 3
+[11:22:01] -------------------
+[11:22:01] Prepare components
+[11:22:01]  ButtonComponent has styleUrls, include them
+[11:22:01]  HeaderComponent has styleUrls, include them
+[11:22:01]  PageComponent has styleUrls, include them
+[11:22:01] Prepare modules
+[11:22:01] Prepare injectables
+[11:22:01] Prepare classes
+[11:22:01] Prepare interfaces
+[11:22:01] Prepare miscellaneous
+[11:22:01] Process documentation coverage report
+[11:22:01] Generating documentation in export format json
+[11:22:01] Documentation generated in ./ in 0.983 seconds
